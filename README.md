@@ -27,7 +27,6 @@ To support their strategic objective of launching a proprietary mobile applicati
 | :---: | :---: |
 | <img width="164" height="356" alt="Screenshot 2026-10-11 123507" src="https://github.com/user-attachments/assets/f884ea39-6314-47be-8b61-9a3daba51f2a" /> | <img width="128" height="289" alt="Screenshot 2026-10-11 123830" src="https://github.com/user-attachments/assets/67fb6c6c-b8f1-41d1-ba2f-8fcef27dbf40" />
 
-
 ---
 
 ## 🌟 STAR Method Summary (Portfolio Highlight)
