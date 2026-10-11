@@ -25,9 +25,7 @@ To support their strategic objective of launching a proprietary mobile applicati
 
 | 📱 Visily Mockup 1: Mobile App Booking Home | 🗺️ Visily Mockup 2: Itinerary & Travel Links |
 | :---: | :---: |
-| ![Mobile App Home Mockup] <img width="164" height="356" alt="Screenshot 2026-10-11 123507" src="https://github.com/user-attachments/assets/f884ea39-6314-47be-8b61-9a3daba51f2a" />
- | ![Travel Hub Mockup] <img width="95" height="243" alt="Screenshot 2026-10-11 123530" src="https://github.com/user-attachments/assets/fdf3908a-c6b6-4eeb-affc-55ee8be58268" />
-|
+| ![Mobile App Home Mockup] <img width="164" height="356" alt="Screenshot 2026-10-11 123507" src="https://github.com/user-attachments/assets/f884ea39-6314-47be-8b61-9a3daba51f2a" /> | ![Travel Hub Mockup] <img width="95" height="243" alt="Screenshot 2026-10-11 123530" src="https://github.com/user-attachments/assets/fdf3908a-c6b6-4eeb-affc-55ee8be58268" />
 
 ---
 
